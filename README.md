@@ -8,5 +8,7 @@ git fetch test 5
 Git push test 6 
 Git push test 7
 git pull test 8
+git fetch test 9 
+Git test text editor nano 10
 
 
